@@ -4,3 +4,5 @@ semantic-ui cdn :https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semant
 faker.js generate fake data
 
 geolocation api: mozilla documentation: window.navigator.geolocation.getCurrentPosition()
+
+axios 3rd party app for network request
