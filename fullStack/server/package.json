@@ -1,0 +1,21 @@
+{
+  "name": "fullStack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "12.17.0",
+    "npm" : "6.14.4"
+  },
+  "scripts": {
+    "start" : "node index.js",
+    "nodemon": "dev index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
